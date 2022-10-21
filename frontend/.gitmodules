@@ -1,0 +1,3 @@
+[submodule "crud-angular"]
+	path = crud-angular
+	url = git@github.com:jesus91fael/crud-angular.git
